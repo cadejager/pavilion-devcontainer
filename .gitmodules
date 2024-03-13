@@ -1,0 +1,6 @@
+[submodule "opensuse-devcontainer"]
+	path = .devconatiner
+	url = https://github.com/cadejager/opensuse-devcontainer.git
+[submodule "pavilion2"]
+	path = pavilion2
+	url = https://github.com/hpc/pavilion2.git
